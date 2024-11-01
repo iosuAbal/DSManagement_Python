@@ -1,0 +1,17 @@
+LICENSE.txt
+README.txt
+setup.py
+DSManagement/Dataset.py
+DSManagement/__init__.py
+DSManagement/data2.py
+DSManagement/dataset.py
+DSManagement/myUtils.py
+DSManagement/plots.py
+DSManagement/utils.py
+DSManagement.egg-info/PKG-INFO
+DSManagement.egg-info/SOURCES.txt
+DSManagement.egg-info/dependency_links.txt
+DSManagement.egg-info/requires.txt
+DSManagement.egg-info/top_level.txt
+DSManagement/test/__init__.py
+DSManagement/test/test_all.py

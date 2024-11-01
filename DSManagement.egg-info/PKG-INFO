@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: DSManagement
+Version: 1.0.0
+Summary: Este paquete es un paquete para preprocesar bases de datos
+Author: Iosu Abal
+Author-email: jabal002@ikasle.ehu.eus
+License: LICENSE.txt
+License-File: LICENSE.txt
+Requires-Dist: seaborn>=0.9.0
+Requires-Dist: pandas>=0.25.1
+Requires-Dist: matplotlib>=3.1.1
+Requires-Dist: numpy>=1.17.2
+
+Quick Start Guide
+-----------------
+
+This is the readme file of the DSManagement module.
